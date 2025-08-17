@@ -16,27 +16,26 @@ A real-time collaborative whiteboard built using the MERN stack (MongoDB, Expres
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
-
-bash
+## 1. Clone the repository
+```bash
 git clone https://github.com/jeelmalaviya07/Collaborative-Whiteboard.git
 cd Collaborative-Whiteboard-MERN-Project
-`
+```
 
 ### 2. Backend setup
 
-bash
+```bash
 cd backend
 npm install
-
+```
 
 * Create a `.env` file:
 
-  env
+  ```env
   MONGO_URI=your_mongodb_connection<br>
   JWT_SECRET=your_jwt_secret<br>
   PORT=5000<br>
-  
+  ```
 * Start server:
 
   bash
