@@ -96,6 +96,3 @@ npm run dev
 * Import image on whiteboard.
 
 ---
-
-
-```
