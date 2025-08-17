@@ -32,15 +32,15 @@ npm install
 * Create a `.env` file:
 
   ```env
-  MONGO_URI=your_mongodb_connection<br>
-  JWT_SECRET=your_jwt_secret<br>
-  PORT=5000<br>
+  MONGO_URI=your_mongodb_connection
+  JWT_SECRET=your_jwt_secret
+  PORT=5000
   ```
 * Start server:
 
-  bash
-  npm run dev<br>
-  
+  ```bash
+  npm run dev
+  ```
 
 ### 3. Frontend setup
 
