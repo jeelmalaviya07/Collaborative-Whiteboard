@@ -1,4 +1,3 @@
-`markdown
 # Collaborative Whiteboard (MERN Stack)
 
 A real-time collaborative whiteboard built using the MERN stack (MongoDB, Express, React, Node.js) with Socket.IO for live updates. It allows multiple users to draw, share, and collaborate on the same canvas with authentication, persistence, and sharing features.
