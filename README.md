@@ -45,9 +45,9 @@ npm install
 ### 3. Frontend setup
 
 ```bash
-cd frontend<br>
-npm install<br>
-npm run dev<br>
+cd frontend
+npm install
+npm run dev
 ```
 
 ---
