@@ -39,7 +39,7 @@ npm install
 * Start server:
 
   ```bash
-  npm run dev
+  node server.js
   ```
 
 ### 3. Frontend setup
